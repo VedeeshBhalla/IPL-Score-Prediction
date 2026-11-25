@@ -1,0 +1,16 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local credentials and editor settings
+.env
+.env.*
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
